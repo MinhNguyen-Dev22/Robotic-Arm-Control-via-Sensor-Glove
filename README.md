@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/31923065/README.md)
-# Robotic Arm Control via Sensor Glove
+# Designing a Communicative System Model Between Humans and Robotic Arms Using Flex Sensors
 
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
 ![Language](https://img.shields.io/badge/C%2B%2B-Arduino-green)
